@@ -606,15 +606,6 @@
         "Archs": "Matrix.so.dSYM"
       }
     },
-    "ProtPipe": {
-      "Source": "github",
-      "Host": "api.github.com",
-      "Username": "NIH-CARD",
-      "Repo": "ProtPipe",
-      "Ref": "feature/R_package_clean",
-      "Subdir": null,
-      "AuthToken": null
-    },
     "R.methodsS3": {
       "Source": "CRAN",
       "Repository": "https://cran.rstudio.com",
