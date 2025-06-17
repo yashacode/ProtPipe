@@ -607,8 +607,10 @@
       }
     },
     "ProtPipe": {
-      "Source": "github",
-      "Repository": null,
+      "Source": "GitHub",
+      "Repository": "NIH-CARD/ProtPipe",
+      "Ref": "feature/R_package_clean",
+      "Package": "ProtPipe",
       "description": {
         "Package": "ProtPipe",
         "Title": "What the Package Does (One Line, Title Case)",
