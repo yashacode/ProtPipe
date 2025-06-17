@@ -607,24 +607,10 @@
       }
     },
     "ProtPipe": {
-      "Source": "GitHub",
+      "Source": "github",
       "Repository": "NIH-CARD/ProtPipe",
       "Ref": "feature/R_package_clean",
-      "Package": "ProtPipe",
-      "description": {
-        "Package": "ProtPipe",
-        "Title": "What the Package Does (One Line, Title Case)",
-        "Version": "0.0.0.9000",
-        "Authors@R": "person(\"Jacob\", \"Epstein\", , \"first.last@example.com\", role = c(\"aut\", \"cre\"),\ncomment = c(ORCID = \"YOUR-ORCID-ID\"))",
-        "Description": "What the package does (one paragraph).",
-        "License": "`use_mit_license()`, `use_gpl3_license()` or friends to pick a\nlicense",
-        "Encoding": "UTF-8",
-        "Roxygen": "list(markdown = TRUE)",
-        "RoxygenNote": "7.3.2",
-        "Suggests": "testthat (>= 3.0.0)",
-        "Config/testthat/edition": "3",
-        "Imports": "ggplot2,\ndata.table,\ncorrplot,\numap,\nmagick,\nggdendro,\necodist,\nggbeeswarm,\nggrepel,\nggthemes,\nforeach,\nreshape2,\nclusterProfiler,\norg.Hs.eg.db,\nDOSE,\nenrichplot,\npheatmap,\nlimma,\ndplyr,\nDescTools,\nmatrixStats,\nstats,\nrlang,\nSomaDataIO"
-      }
+      "Package": "ProtPipe"
     },
     "R.methodsS3": {
       "Source": "CRAN",
